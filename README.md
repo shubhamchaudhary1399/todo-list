@@ -12,7 +12,7 @@ git@github.com:shubhamchaudhary1399/todo-list.git
 
 ## Built With
 
-- [HTML], [CSS], [JAVASCRIPT]
+- HTML, CSS, JavaScript
 
 ## Authors
 
